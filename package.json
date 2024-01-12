@@ -1,0 +1,23 @@
+{
+  "name": "bijli_wali_gadi",
+  "version": "1.0.0",
+  "description": "This is the Electric car sote website which is inspired form the tesla",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Rohan mi",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^18.2.47",
+    "@types/react-dom": "^18.2.18",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  }
+}
